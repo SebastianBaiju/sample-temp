@@ -1,0 +1,19 @@
+
+
+// Color system
+:root {
+  --color-background: #000000;
+  --color-black-100: #0000004e;
+  --color-transparent: transparent;
+  --color-white: #fff;
+  --color-grey: #d2d2d2;
+  --mat-tab-header-active-label-text-color:  #fff;
+}
+
+
+// Primary Colors
+$color-background: #{var(--color-background)} !default;
+$color-transparent: #{var(--color-transparent)} !default;
+$color-black-100: #{var(--color-black-100)} !default;
+$color-white: #{var(--color-white)} !default;
+$color-grey: #{var(--color-grey)} !default;
